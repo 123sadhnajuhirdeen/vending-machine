@@ -11,7 +11,7 @@ Note:  ***vender machine should not accept a request if it does not have suffici
 
 ****Java Vending machine classes, interfaces****
 
-1.VendingMachine - API, usually all high level functionality
+1.VendingMachine - define API, usually all high level functionality
 
 2.VendingMachineImpl - sample implementation of vendingMachine
 
