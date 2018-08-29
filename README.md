@@ -1,6 +1,8 @@
 # vending-machine
 
-This is simple vending machine design, which is,
+This is simple vending machine design, developed using java to gain design and OOP concept,
+
+Vending machine,
 1. Accepts coins of 1,5,10,25 cents 
 2. Allow user to select products coke(25),pepsi(35),soda(45)
 3. Allow user to take refund by cancelling the request
