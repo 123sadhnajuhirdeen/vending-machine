@@ -32,3 +32,7 @@ Note:  ***vender machine should not accept a request if it does not have suffici
 9.NotSufficientChangeException - Vending machine throws an exception if it does not have sufficient change to complete the request
 
 10.SoldOutException = vending machine throws this exception if the user request for a product which is sold out.
+
+***design pattern used***
+1. Factory design pattern used to encapsulate creation logic of machine
+2. Adapter pattern used to create Inventory by wrapping java.util.Map
